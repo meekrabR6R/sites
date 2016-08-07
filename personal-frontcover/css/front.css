@@ -97,13 +97,24 @@ li:hover {
 }
 a {
     text-align: justify;
-    border: 2px solid white;
-    border-radius: 5px;
-    color: white;
     padding: 15px;
     padding-left: 30px;
     width: 70%;
 }
+
+.a-border {
+  border: 2px solid white;
+  border-radius: 5px;
+  color: white;
+}
+
+.a-no-border {
+  border: 0px solid white;
+  border-radius: 5px;
+  color: white;
+  text-align: center;
+}
+
 a:hover {
     -webkit-transition: 500ms;
     -moz-transition: 500ms;
