@@ -4,7 +4,7 @@ email: nmiano84@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Various thoughts.
 baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "https://bekti.net" # the base hostname & protocol for your site
+url: "http://www.nickmiano.com" # the base hostname & protocol for your site
 google_analytics: #your GA unique id, e.g. UA-xxxxxxxx-x
 disqus_username: #Your disqus_username to add comments on the post
 
